@@ -1,5 +1,5 @@
 #433MhzBananaKaKu
-================
+
 433MhzBananaKaKu is an ported library to send and receive klikaanklikuit commands.
 
 Its an ported version of:
