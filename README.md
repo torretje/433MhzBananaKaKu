@@ -1,6 +1,7 @@
 #433MhzBananaKaKu
 
-433MhzBananaKaKu is an ported library to send and receive klikaanklikuit commands.
+433MhzBananaKaKu is an ported library to send and receive klikaanklikuit commands with the Banana Pi.
+It will probably work the Rasberry Pi, but that's not tested yet.
 
 Its an ported version of:
 NewRemoteSwitch library v1.1.0 (BETA) for Arduino 1.0
@@ -18,7 +19,7 @@ cd 433MhzBananaKaKu
 
 The assumption is that the 433Mhz Transmiter is on WiringPi pin 0 and that the Receiver is on pin 1
 
-##To run from the commandline:
+##To run from the command-line:
 ###To receive commands
 <pre><code>
 sudo ./BananaKaKuReceive
