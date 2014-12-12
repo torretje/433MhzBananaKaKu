@@ -5,7 +5,6 @@ It will probably work the Rasberry Pi, but that's not tested yet.
 
 Its an ported version of:
 NewRemoteSwitch library v1.1.0 (BETA) for Arduino 1.0
-
 Made by Randy Simons http://randysimons.nl/
 Depends on the WiringPi GPIO library http://wiringpi.com/ .
 
