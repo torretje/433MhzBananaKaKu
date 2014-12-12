@@ -1,0 +1,7 @@
+#!/bin/sh
+echo Building  
+echo Transmiter newBanKaKuReceive;
+g++ -o BananaKaKuReceive newKaKuReceiver.cpp -I/usr/local/include -L/usr/local/lib -lwiringPi
+echo Transmiter newBanKaKuTransmit;
+g++ -o BananaKaKuTransmit newKaKuTransmitter.cpp -I/usr/local/include -L/usr/local/lib -lwiringPi
+echo Ready;
